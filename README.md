@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricksaha
-- 👀 I’m interested in programming
+- 👀 I’m interested in Computer programming
 - 🌱 I’m currently learning in cse
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me through my github account i am active here no problem.
