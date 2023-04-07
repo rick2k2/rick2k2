@@ -1,4 +1,4 @@
-[MasterHead](https://res.cloudinary.com/dspxus0so/image/upload/v1680841589/Rick_saha_tuvdpe.jpg)
+[MasterHead](https://res.cloudinary.com/dspxus0so/image/upload/v1680841589/Rick_saha_tuvdpe.jpg)<br/><br/>
 <img align="center" alt="Rick_saha_Github_Profile_image" width="500" src="https://res.cloudinary.com/dspxus0so/image/upload/v1680841589/Rick_saha_tuvdpe.jpg"/>
 <h1 align="center">Hey Nice To Meet You 👋, I'm Rick saha</h1>
 <h3 align="center">A passionate web developer from INDIA,WB</h3>
